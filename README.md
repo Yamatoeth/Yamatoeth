@@ -14,8 +14,8 @@ I am Yamato, a full stack developer and smart contract engineer.
 
 ## Contact
 - **Twitter / X:** [@yamatoeth](https://twitter.com/yamatoeth)  
-- **Discord:** yamatoeth#0000  
-- **Email:** [optional: add your email if you want]
+
+
 
 
 <!--
