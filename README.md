@@ -5,7 +5,7 @@ I am Yamato, a full stack developer and smart contract engineer.
 
 ## Current Projects
 - Working on UpArena, a hybrid web2/web3 platform bridging the gap between streaming and predictions markets, aiming to bring web3 to the mass without them having a clue
-- 
+
 ## Tools I Use
 - **Languages & Frameworks:** JavaScript, React, TypeScript, Node.js
 - **Blockchain:** Solana, Evm chains, 
