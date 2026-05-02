@@ -13,5 +13,5 @@ I am Yamato, a full stack developer and smart contract engineer.
 ## Contact
 - **Twitter / X:** [@yamatoeth](https://twitter.com/yamatoeth)
 - **Linkedin :** [simon](https://www.linkedin.com/in/simon-lechevalier-5ba743198/)
-- **CV :** [CV] (https://simon-lechevalier-cv.vercel.app/)
+- **CV :** [CV](https://simon-lechevalier-cv.vercel.app/)
   
